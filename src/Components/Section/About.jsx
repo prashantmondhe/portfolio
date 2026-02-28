@@ -15,7 +15,7 @@ export const About = () => {
         "Node.js",
         "Express",
         "MongoDB",
-        "SQL"
+        "SQL",
     ];
 
     return (
